@@ -212,8 +212,8 @@ body {
   cursor: pointer;
 }
 
-.button-section:hover,
-.button-section:focus {
+.btn-section:hover,
+.btn-section:focus {
   color: #ffffff;
   background-color: var(--brend-color);
 }
